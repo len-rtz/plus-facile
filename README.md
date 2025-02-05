@@ -2,6 +2,8 @@
 
 A Chrome extension that simplifies French text to different language learning levels (A1-B2) using local LLM processing.
 
+<img width="1440" alt="Screenshot-Plus-Facile" src="https://github.com/user-attachments/assets/675be25a-8108-4816-b6a4-979ad556621d" />
+
 ## Prerequisites
 
 - macOS or Linux
