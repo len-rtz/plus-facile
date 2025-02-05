@@ -31,8 +31,8 @@ The server should be running on http://localhost:5001
 
 ### 4. Usage
 1. Go to any webpage with French text
-2. Select some French text
-3. A popup will appear with the simplified version
+2. Select French text
+3. Use the context menu with right mouse click and choose "Simplify French Text"
 4. Use the extension popup to:
    - Enable/disable the extension
    - Change the target language level (A1-B2)
@@ -50,30 +50,12 @@ If the extension shows "Disconnected":
 2. Make sure selected text is French
 3. Text must be at least 10 characters long
 
-## File Structure
-```
-frenchplugin/
-├── backend/
-│   ├── app.py
-│   ├── requirements.txt
-│   └── venv/
-└── extension/
-    ├── manifest.json
-    ├── popup.html
-    ├── popup.js
-    ├── content.js
-    ├── background.js
-    ├── styles.css
-    ├── lib/
-    │   └── bootstrap.min.css
-    └── images/
-        ├── icon16.png
-        ├── icon48.png
-        └── icon128.png
-```
 
 ## Requirements
 - Python 3.7+
 - Chrome browser
 - Ollama installed
 - e.g. Mistral model downloaded
+
+<img width="1440" alt="Screenshot-Plus-Facile" src="https://github.com/user-attachments/assets/17057921-94e5-4022-bf3f-604a700d276a" />
+
