@@ -96,7 +96,8 @@ python app.py
 1. Make sure both Ollama and the Flask server are running
 2. Visit any French webpage
 3. Select some French text
-4. A popup should appear with the simplified version
+4. Right click for context menu and choose "Simplify French Text"
+5. A popup should appear with the simplified version
 
 ## Troubleshooting
 
